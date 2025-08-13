@@ -1,6 +1,6 @@
 # Library Management System (Qt Widgets, C++)
 
-This project implements the COS2614 Assignment 3 brief:
+brief:
 
 - OOP with base/derived classes and polymorphism
 - Qt containers (`QList`), sorting/filtering, and model/view with `QListView + QSortFilterProxyModel`
